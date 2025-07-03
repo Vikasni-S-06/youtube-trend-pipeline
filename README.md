@@ -41,7 +41,7 @@ youtube-trend-pipeline/
 
  🚀 Live Demo
 
-🔗 [Click to View Live App](https://your-streamlit-link)
+🔗 [Click to View Live App](https://vikansi-06-youtube-trend-pipeline-push.streamlit.app/)
 
 💻 [GitHub Repository](https://github.com/yourusername/youtube-trend-pipeline)
 
